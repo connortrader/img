@@ -1,0 +1,1 @@
+# SetupAlpha Image Assets
